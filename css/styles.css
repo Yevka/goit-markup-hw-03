@@ -93,15 +93,15 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.reviews {
+.team {
   background: #f4f4fd;
 }
 
-.reviews-item {
+.team-item {
   background: #fff;
 }
 
-.reviews-title {
+.team-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -111,7 +111,7 @@ a {
   text-transform: capitalize;
 }
 
-.reviews-subtitle {
+.team-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -120,7 +120,7 @@ a {
   color: #2e2f42;
 }
 
-.reviews-item-text {
+.team-item-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
